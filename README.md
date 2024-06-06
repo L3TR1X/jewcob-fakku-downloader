@@ -2,7 +2,7 @@ Not my code, just fork it to GitHub to make it easy for people to find.
 
 Original project: https://gitgud.io/combtmp-w5f08/jewcob-downloader
 
-
+SMTH
 forked from https://github.com/Hikot0shi/fakku-downloader/
 tested on 7595 urls   
 7595 works downloaded without an issue (games and anime skipped)   
